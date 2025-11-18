@@ -1,0 +1,6445 @@
+{
+  "chunks": [
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Hello everyone, welcome to Apna College."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 3.0,
+      "end": 6.0,
+      "text": " So, the last three days of the class are over."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 6.0,
+      "end": 9.0,
+      "text": " In which we learned the calculation on the first day,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 9.0,
+      "end": 11.0,
+      "text": " and solved the simplification on the second day."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 11.0,
+      "end": 13.0,
+      "text": " And the last video was about the percentage,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 13.0,
+      "end": 15.0,
+      "text": " how to calculate percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 15.0,
+      "end": 18.0,
+      "text": " Now the next topic, that is simple interest,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 18.0,
+      "end": 20.0,
+      "text": " that we are going to do in this particular video."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 20.0,
+      "end": 22.0,
+      "text": " I hope you all are good."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 22.0,
+      "end": 23.0,
+      "text": " Let's start."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 24.0,
+      "end": 27.0,
+      "text": " So, the simple interest that we have to understand,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 27.0,
+      "end": 29.0,
+      "text": " first of all, what is simple interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 30.0,
+      "end": 32.0,
+      "text": " That is very important to understand."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 32.0,
+      "end": 35.0,
+      "text": " Why? Because, there are two parts of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 35.0,
+      "end": 37.0,
+      "text": " As we all know, there is one simple interest,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 37.0,
+      "end": 39.0,
+      "text": " and one compound interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 39.0,
+      "end": 41.0,
+      "text": " So, to understand compound interest well,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 41.0,
+      "end": 44.0,
+      "text": " it is also very important to understand what is simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 44.0,
+      "end": 47.0,
+      "text": " And there are certain things that you can use."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 47.0,
+      "end": 49.0,
+      "text": " Let's understand."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 49.0,
+      "end": 55.0,
+      "text": " Let's say, I have kept 1000 rupees in the bank."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 55.0,
+      "end": 59.0,
+      "text": " And the bank is saying, I will give you 10% interest per annum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 59.0,
+      "end": 61.0,
+      "text": " P.A stands for per annum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 61.0,
+      "end": 64.0,
+      "text": " Meaning, in one year, I will give you 10% interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 64.0,
+      "end": 65.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 65.0,
+      "end": 70.0,
+      "text": " Now, you guys tell me, after one year, how much interest will I get?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 70.0,
+      "end": 72.0,
+      "text": " How much interest will I get?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 72.0,
+      "end": 74.0,
+      "text": " You will say, sir, 10% of 1000."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 74.0,
+      "end": 78.0,
+      "text": " We will go in the formula, but let's understand using percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 78.0,
+      "end": 81.0,
+      "text": " 10% of 1000 rupees, that is 100 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 81.0,
+      "end": 84.0,
+      "text": " That is my interest for the first year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 84.0,
+      "end": 89.0,
+      "text": " I am writing it over here, interest for first year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 90.0,
+      "end": 91.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 91.0,
+      "end": 94.0,
+      "text": " Now, this is the first year's interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 94.0,
+      "end": 96.0,
+      "text": " Now, what about the second year?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 96.0,
+      "end": 98.0,
+      "text": " How much interest will you get in the second year?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 98.0,
+      "end": 101.0,
+      "text": " You will say, sir, it will again be 100 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 101.0,
+      "end": 105.0,
+      "text": " That is the main point of this simple interest thing."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 105.0,
+      "end": 106.0,
+      "text": " Main concept."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 106.0,
+      "end": 109.0,
+      "text": " How much interest will you get in the second year?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 109.0,
+      "end": 111.0,
+      "text": " Second year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 111.0,
+      "end": 113.0,
+      "text": " Interest for second year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 113.0,
+      "end": 115.0,
+      "text": " That will also be the same."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 115.0,
+      "end": 123.0,
+      "text": " Always understand, simple interest means that you will get 10% interest every year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 123.0,
+      "end": 128.0,
+      "text": " It does not matter that you are talking about first year, second year, third year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 128.0,
+      "end": 130.0,
+      "text": " Even in the 100th year also."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 130.0,
+      "end": 138.0,
+      "text": " If you keep the money for 100 years, then also you will get 100 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 138.0,
+      "end": 139.0,
+      "text": " Not more, not less."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 139.0,
+      "end": 142.0,
+      "text": " So, that means what I am trying to convey is,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 142.0,
+      "end": 145.0,
+      "text": " What will happen in simple interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 145.0,
+      "end": 149.0,
+      "text": " Interest will always be the same."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 149.0,
+      "end": 152.0,
+      "text": " Interest will be constant."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 153.0,
+      "end": 157.0,
+      "text": " Irrespective of whatever number of years are there."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 157.0,
+      "end": 160.0,
+      "text": " So, if the number of years is more, then the interest will increase."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 160.0,
+      "end": 162.0,
+      "text": " But, how much will be the year?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 162.0,
+      "end": 164.0,
+      "text": " You will get 10% every year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 164.0,
+      "end": 167.0,
+      "text": " Every year 10% means in this case, you will get 100 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 167.0,
+      "end": 172.0,
+      "text": " So, it is not that if you keep it for 10 years, then you will get the most in the 10th year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 172.0,
+      "end": 174.0,
+      "text": " That happens in compound interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 174.0,
+      "end": 178.0,
+      "text": " Here, the interest of the first year will be the same for the 10th year,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 178.0,
+      "end": 181.0,
+      "text": " 50th year and 100th year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 181.0,
+      "end": 183.0,
+      "text": " That interest will never increase."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 183.0,
+      "end": 184.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 184.0,
+      "end": 187.0,
+      "text": " That is the main thing."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 187.0,
+      "end": 189.0,
+      "text": " Now, how is it calculated?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 189.0,
+      "end": 192.0,
+      "text": " You can calculate this in two types."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 192.0,
+      "end": 194.0,
+      "text": " One is using percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 195.0,
+      "end": 197.0,
+      "text": " Another is using a formula."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 197.0,
+      "end": 200.0,
+      "text": " We all know the formula of simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 200.0,
+      "end": 203.0,
+      "text": " Honestly speaking, this formula also comes from percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 203.0,
+      "end": 206.0,
+      "text": " But, let's understand what is that."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 206.0,
+      "end": 211.0,
+      "text": " Interest is P into T into R divided by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 211.0,
+      "end": 213.0,
+      "text": " This is the simple interest formula."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 213.0,
+      "end": 214.0,
+      "text": " I hope everybody knows this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 214.0,
+      "end": 215.0,
+      "text": " What is it?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 215.0,
+      "end": 218.0,
+      "text": " P stands for your principal or the sum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 218.0,
+      "end": 219.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 219.0,
+      "end": 220.0,
+      "text": " The amount of money you have kept."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 220.0,
+      "end": 222.0,
+      "text": " T stands for our time."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 222.0,
+      "end": 223.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 223.0,
+      "end": 225.0,
+      "text": " Generally, we take time in years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 225.0,
+      "end": 229.0,
+      "text": " Because, most of the time, the rate of interest that is given,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 229.0,
+      "end": 235.0,
+      "text": " R stands for rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 235.0,
+      "end": 241.0,
+      "text": " Generally, the rate of interest is given per annum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 241.0,
+      "end": 246.0,
+      "text": " That is why, we take time in years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 246.0,
+      "end": 249.0,
+      "text": " If the rate of interest is given in per month basis,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 249.0,
+      "end": 251.0,
+      "text": " then you have to take T in a month."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 251.0,
+      "end": 253.0,
+      "text": " That is the only change."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 253.0,
+      "end": 254.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 254.0,
+      "end": 258.0,
+      "text": " So, this is the formula for calculating simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 258.0,
+      "end": 261.0,
+      "text": " But, what I generally prefer,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 261.0,
+      "end": 264.0,
+      "text": " I don't prefer using this particular formula."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 264.0,
+      "end": 266.0,
+      "text": " And, I will suggest you guys to do the same as well."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 266.0,
+      "end": 267.0,
+      "text": " Why?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 267.0,
+      "end": 271.0,
+      "text": " If you learn simple interest in percentage,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 271.0,
+      "end": 273.0,
+      "text": " using simple concepts of percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 273.0,
+      "end": 277.0,
+      "text": " Look, I told you in the last video of percentage,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 277.0,
+      "end": 280.0,
+      "text": " that there are two chapters in arithmetic."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 280.0,
+      "end": 281.0,
+      "text": " One is percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 282.0,
+      "end": 284.0,
+      "text": " One is percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 284.0,
+      "end": 286.0,
+      "text": " Another chapter is ratio."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 286.0,
+      "end": 290.0,
+      "text": " So, if you know these two chapters,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 290.0,
+      "end": 292.0,
+      "text": " if you can solve these two chapters,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 292.0,
+      "end": 294.0,
+      "text": " if you know these concepts well,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 294.0,
+      "end": 298.0,
+      "text": " then you can do any sort of questions."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 298.0,
+      "end": 299.0,
+      "text": " That's all I can tell you."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 299.0,
+      "end": 302.0,
+      "text": " You can do any question of arithmetic,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 302.0,
+      "end": 304.0,
+      "text": " if you know these two concepts well."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 304.0,
+      "end": 306.0,
+      "text": " That is the given condition."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 306.0,
+      "end": 307.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 307.0,
+      "end": 309.0,
+      "text": " So, how will we learn percentage in it?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 309.0,
+      "end": 314.0,
+      "text": " Let's learn how to think of simple interest in percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 314.0,
+      "end": 315.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 315.0,
+      "end": 317.0,
+      "text": " So, let's move to the next page."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 317.0,
+      "end": 322.0,
+      "text": " Look, I have given the heading as simple interest as percentage of principle."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 322.0,
+      "end": 324.0,
+      "text": " Always remember,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 324.0,
+      "end": 330.0,
+      "text": " the interest that is always percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 330.0,
+      "end": 331.0,
+      "text": " For example,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 331.0,
+      "end": 332.0,
+      "text": " if I say,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 332.0,
+      "end": 334.0,
+      "text": " let's take the same example."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 334.0,
+      "end": 336.0,
+      "text": " I have kept 1000 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 337.0,
+      "end": 341.0,
+      "text": " At the rate of interest is 10% per annum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 341.0,
+      "end": 345.0,
+      "text": " And I have kept this money for 5 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 345.0,
+      "end": 346.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 346.0,
+      "end": 348.0,
+      "text": " So, look, you can do two ways."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 348.0,
+      "end": 350.0,
+      "text": " You can calculate in two ways."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 350.0,
+      "end": 352.0,
+      "text": " First is, definitely you can do like this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 352.0,
+      "end": 353.0,
+      "text": " Interest will be,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 353.0,
+      "end": 355.0,
+      "text": " principle is my 1000 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 356.0,
+      "end": 357.0,
+      "text": " Into,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 357.0,
+      "end": 358.0,
+      "text": " t into r."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 358.0,
+      "end": 360.0,
+      "text": " So, formula was p into t into r."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 360.0,
+      "end": 361.0,
+      "text": " So, t is 5 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 361.0,
+      "end": 362.0,
+      "text": " Put it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 362.0,
+      "end": 363.0,
+      "text": " r is 10."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 363.0,
+      "end": 365.0,
+      "text": " Divided by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 365.0,
+      "end": 367.0,
+      "text": " So, from here you can calculate."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 367.0,
+      "end": 369.0,
+      "text": " But this is a simple question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 369.0,
+      "end": 370.0,
+      "text": " You have done it with formula."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 370.0,
+      "end": 372.0,
+      "text": " But some questions will come,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 372.0,
+      "end": 374.0,
+      "text": " which will be bigger if you apply formula."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 374.0,
+      "end": 376.0,
+      "text": " It's not that the question will not be made."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 376.0,
+      "end": 377.0,
+      "text": " It will be made."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 377.0,
+      "end": 378.0,
+      "text": " But it will be a little lengthy."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 378.0,
+      "end": 380.0,
+      "text": " It will be a little difficult."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 380.0,
+      "end": 383.0,
+      "text": " That is why it is important that you think well."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 383.0,
+      "end": 385.0,
+      "text": " Can we think in this manner?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 385.0,
+      "end": 388.0,
+      "text": " That I get 10% interest every year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 388.0,
+      "end": 391.0,
+      "text": " 10% per annum is the rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 391.0,
+      "end": 392.0,
+      "text": " The ROI is this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 392.0,
+      "end": 395.0,
+      "text": " That means rate of interest 10% means,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 395.0,
+      "end": 398.0,
+      "text": " every year bank will give me 10% more."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 398.0,
+      "end": 400.0,
+      "text": " Will give extra as my interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 400.0,
+      "end": 402.0,
+      "text": " If I kept some money,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 402.0,
+      "end": 405.0,
+      "text": " then 10% of that bank gave me extra."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 405.0,
+      "end": 406.0,
+      "text": " Right."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 406.0,
+      "end": 407.0,
+      "text": " Now, can you guys tell me,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 407.0,
+      "end": 409.0,
+      "text": " if we keep 5 years,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 409.0,
+      "end": 411.0,
+      "text": " then how much percent will I get?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 411.0,
+      "end": 413.0,
+      "text": " Can I say every year 10%?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 413.0,
+      "end": 415.0,
+      "text": " So, in 5 years, how much will it come?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 415.0,
+      "end": 418.0,
+      "text": " In 5 years, I will get 50% interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 418.0,
+      "end": 420.0,
+      "text": " 10% of every year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 420.0,
+      "end": 422.0,
+      "text": " 50% in 5 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 422.0,
+      "end": 424.0,
+      "text": " Now, the next question becomes,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 424.0,
+      "end": 427.0,
+      "text": " this 50%,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 427.0,
+      "end": 430.0,
+      "text": " 50% of what?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 430.0,
+      "end": 432.0,
+      "text": " Whose 50%?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 432.0,
+      "end": 434.0,
+      "text": " That is the next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 434.0,
+      "end": 436.0,
+      "text": " 50% interest will be received."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 436.0,
+      "end": 438.0,
+      "text": " But whose 50%?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 438.0,
+      "end": 440.0,
+      "text": " Always remember,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 440.0,
+      "end": 444.0,
+      "text": " interest will get calculated on your principal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 444.0,
+      "end": 446.0,
+      "text": " Which is also called sum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 446.0,
+      "end": 447.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 447.0,
+      "end": 448.0,
+      "text": " This is also called sum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 448.0,
+      "end": 449.0,
+      "text": " That is P."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 449.0,
+      "end": 450.0,
+      "text": " Nothing but P."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 450.0,
+      "end": 452.0,
+      "text": " So, whatever money you have kept,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 452.0,
+      "end": 456.0,
+      "text": " always the interest is the percentage of the principal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 456.0,
+      "end": 458.0,
+      "text": " So, I can say like this,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 458.0,
+      "end": 461.0,
+      "text": " the 1000 rupees which was my principal,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 461.0,
+      "end": 462.0,
+      "text": " in this case,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 462.0,
+      "end": 464.0,
+      "text": " its 50% means 50 over 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 464.0,
+      "end": 466.0,
+      "text": " So, it comes to 500 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 466.0,
+      "end": 468.0,
+      "text": " By calculating."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 468.0,
+      "end": 469.0,
+      "text": " I am calculating here,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 469.0,
+      "end": 471.0,
+      "text": " see, this 10 became from here."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 471.0,
+      "end": 474.0,
+      "text": " So, see, here also you got 500 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 474.0,
+      "end": 476.0,
+      "text": " So, you can either go like this,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 476.0,
+      "end": 478.0,
+      "text": " but the better way,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 478.0,
+      "end": 479.0,
+      "text": " if you ask me,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 479.0,
+      "end": 481.0,
+      "text": " will be to learn the subject,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 481.0,
+      "end": 483.0,
+      "text": " learn the chapter like this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 483.0,
+      "end": 484.0,
+      "text": " What will happen in this?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 484.0,
+      "end": 485.0,
+      "text": " When you solve the question,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 485.0,
+      "end": 487.0,
+      "text": " you will tell yourself that,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 487.0,
+      "end": 489.0,
+      "text": " if you take interest in percentage,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 489.0,
+      "end": 491.0,
+      "text": " then it becomes very simple."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 491.0,
+      "end": 492.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 492.0,
+      "end": 493.0,
+      "text": " Perfect."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 493.0,
+      "end": 495.0,
+      "text": " Now, another key concept here,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 495.0,
+      "end": 497.0,
+      "text": " is rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 497.0,
+      "end": 498.0,
+      "text": " I have asked you,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 498.0,
+      "end": 499.0,
+      "text": " rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 499.0,
+      "end": 500.0,
+      "text": " I have asked you,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 500.0,
+      "end": 501.0,
+      "text": " tell me,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 501.0,
+      "end": 503.0,
+      "text": " what will be the rate of interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 503.0,
+      "end": 506.0,
+      "text": " So, how will you define the rate of interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 506.0,
+      "end": 507.0,
+      "text": " In percentage terms."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 507.0,
+      "end": 508.0,
+      "text": " Always remember,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 509.0,
+      "end": 512.0,
+      "text": " the total interest that you will get,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 512.0,
+      "end": 515.0,
+      "text": " interest for one year,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 516.0,
+      "end": 518.0,
+      "text": " that is your rate of interest,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 518.0,
+      "end": 519.0,
+      "text": " in terms of percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 520.0,
+      "end": 521.0,
+      "text": " In terms of,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 521.0,
+      "end": 522.0,
+      "text": " if you apply,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 522.0,
+      "end": 523.0,
+      "text": " like,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 523.0,
+      "end": 524.0,
+      "text": " like kind of,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 524.0,
+      "end": 525.0,
+      "text": " do this in percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 525.0,
+      "end": 526.0,
+      "text": " See,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 526.0,
+      "end": 528.0,
+      "text": " the interest that you get for one year,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 528.0,
+      "end": 530.0,
+      "text": " that is my rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 530.0,
+      "end": 531.0,
+      "text": " Now, think,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 531.0,
+      "end": 534.0,
+      "text": " that rate of interest is found in per annum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 534.0,
+      "end": 535.0,
+      "text": " Per annum means,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 535.0,
+      "end": 537.0,
+      "text": " the interest that you get in one year,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 537.0,
+      "end": 539.0,
+      "text": " that is my rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 539.0,
+      "end": 541.0,
+      "text": " That is the easiest way,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 541.0,
+      "end": 543.0,
+      "text": " you can calculate simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 543.0,
+      "end": 544.0,
+      "text": " I hope this much is clear."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 545.0,
+      "end": 546.0,
+      "text": " Let's move on then."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 546.0,
+      "end": 547.0,
+      "text": " Let's move on to the,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 547.0,
+      "end": 549.0,
+      "text": " first question of the day."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 549.0,
+      "end": 550.0,
+      "text": " It's a very simple question,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 550.0,
+      "end": 551.0,
+      "text": " just the beginning."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 551.0,
+      "end": 552.0,
+      "text": " Very simple."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 552.0,
+      "end": 556.0,
+      "text": " 1500 rupees is given at a rate of 6% for 5 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 556.0,
+      "end": 558.0,
+      "text": " How much will be the amount?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 558.0,
+      "end": 560.0,
+      "text": " Now comes the next concept,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 560.0,
+      "end": 561.0,
+      "text": " that is amount."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 561.0,
+      "end": 563.0,
+      "text": " What is amount?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 563.0,
+      "end": 564.0,
+      "text": " See,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 564.0,
+      "end": 565.0,
+      "text": " this amount is a very simple thing."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 565.0,
+      "end": 567.0,
+      "text": " Amount means,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 567.0,
+      "end": 568.0,
+      "text": " principle,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 570.0,
+      "end": 571.0,
+      "text": " plus the interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 573.0,
+      "end": 575.0,
+      "text": " That is the best way to understand."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 575.0,
+      "end": 576.0,
+      "text": " See, understand it properly."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 576.0,
+      "end": 577.0,
+      "text": " It's very simple."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 577.0,
+      "end": 580.0,
+      "text": " See, I have kept 10,000 rupees in a bank."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 580.0,
+      "end": 583.0,
+      "text": " So, the bank gave me 50% interest for 5 years,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 583.0,
+      "end": 585.0,
+      "text": " by giving me 10%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 585.0,
+      "end": 586.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 586.0,
+      "end": 588.0,
+      "text": " So, now when I go to the bank,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 588.0,
+      "end": 590.0,
+      "text": " then 50% above 10,000 means,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 590.0,
+      "end": 592.0,
+      "text": " I got 5,000 interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 592.0,
+      "end": 594.0,
+      "text": " So, I went to the bank after 5 years,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 594.0,
+      "end": 595.0,
+      "text": " that I said,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 595.0,
+      "end": 597.0,
+      "text": " that I want my money back,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 597.0,
+      "end": 600.0,
+      "text": " after closing my account."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 600.0,
+      "end": 602.0,
+      "text": " So, how much money will the bank give me?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 602.0,
+      "end": 604.0,
+      "text": " Will it give only 5,000 rupees?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 604.0,
+      "end": 606.0,
+      "text": " So, if they give,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 606.0,
+      "end": 607.0,
+      "text": " then no one will believe that,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 607.0,
+      "end": 608.0,
+      "text": " I have kept 10,000,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 608.0,
+      "end": 609.0,
+      "text": " it should increase."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 609.0,
+      "end": 611.0,
+      "text": " So, instead of 10,000,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 611.0,
+      "end": 612.0,
+      "text": " if you give 5,000,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 612.0,
+      "end": 613.0,
+      "text": " then it won't work."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 613.0,
+      "end": 616.0,
+      "text": " So, amount is that particular sum,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 616.0,
+      "end": 618.0,
+      "text": " which the bank will return to you."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 618.0,
+      "end": 619.0,
+      "text": " So, that is,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 619.0,
+      "end": 620.0,
+      "text": " what you had kept,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 620.0,
+      "end": 621.0,
+      "text": " that is there."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 621.0,
+      "end": 622.0,
+      "text": " Along with that,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 622.0,
+      "end": 624.0,
+      "text": " the interest that the bank gave extra."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 624.0,
+      "end": 626.0,
+      "text": " So, the total is called the amount."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 626.0,
+      "end": 628.0,
+      "text": " So, here they are asking the amount."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 628.0,
+      "end": 629.0,
+      "text": " So, see,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 629.0,
+      "end": 631.0,
+      "text": " this question can be asked in both ways,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 631.0,
+      "end": 634.0,
+      "text": " but I will do using percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 634.0,
+      "end": 636.0,
+      "text": " 6% per annum,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 636.0,
+      "end": 637.0,
+      "text": " 6% per year,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 637.0,
+      "end": 638.0,
+      "text": " how many years?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 638.0,
+      "end": 639.0,
+      "text": " 5, 5 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 639.0,
+      "end": 641.0,
+      "text": " So, how much total interest will I get?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 641.0,
+      "end": 643.0,
+      "text": " Can I say 5 into 6?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 643.0,
+      "end": 645.0,
+      "text": " 30%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 645.0,
+      "end": 647.0,
+      "text": " I get 6% in a year,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 647.0,
+      "end": 649.0,
+      "text": " in 5 years, I will get 30%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 649.0,
+      "end": 651.0,
+      "text": " Now, 30% of what?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 651.0,
+      "end": 653.0,
+      "text": " The money I have kept,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 653.0,
+      "end": 654.0,
+      "text": " that is 1500."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 654.0,
+      "end": 655.0,
+      "text": " So, you can say,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 655.0,
+      "end": 658.0,
+      "text": " then the interest is going to be how much?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 658.0,
+      "end": 662.0,
+      "text": " 30% means 30 over 100 of 1500."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 662.0,
+      "end": 664.0,
+      "text": " So, just calculate this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 664.0,
+      "end": 666.0,
+      "text": " See, this 0, this 0 is gone."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 666.0,
+      "end": 669.0,
+      "text": " So, this is coming out to be 450 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 669.0,
+      "end": 672.0,
+      "text": " So, how much money will the bank return me?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 672.0,
+      "end": 674.0,
+      "text": " The money I had kept,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 674.0,
+      "end": 675.0,
+      "text": " that is 1500,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 675.0,
+      "end": 677.0,
+      "text": " plus the interest I made,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 677.0,
+      "end": 678.0,
+      "text": " that is 450."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 678.0,
+      "end": 681.0,
+      "text": " So, that will be 1950 rupees,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 681.0,
+      "end": 684.0,
+      "text": " which is there in option A."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 684.0,
+      "end": 686.0,
+      "text": " It is in the first option."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 686.0,
+      "end": 688.0,
+      "text": " I hope this is clear."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 688.0,
+      "end": 689.0,
+      "text": " This is very, very simple stuff."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 689.0,
+      "end": 691.0,
+      "text": " Not very difficult, nothing."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 691.0,
+      "end": 693.0,
+      "text": " I hope this is clear, absolutely."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 693.0,
+      "end": 695.0,
+      "text": " Let's move on then to the next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 695.0,
+      "end": 699.0,
+      "text": " A sum of money was lent on simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 699.0,
+      "end": 700.0,
+      "text": " After 4 years,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 700.0,
+      "end": 704.0,
+      "text": " its simple interest became 3 by 5 of it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 704.0,
+      "end": 706.0,
+      "text": " Okay, let's do 3 fifth."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 706.0,
+      "end": 709.0,
+      "text": " Find the rate of interest per annum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 709.0,
+      "end": 711.0,
+      "text": " Okay, this is what I asked you."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 711.0,
+      "end": 713.0,
+      "text": " Now, see, this is one of the template questions,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 713.0,
+      "end": 717.0,
+      "text": " where percentage terms become very, very easy to solve."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 717.0,
+      "end": 718.0,
+      "text": " See, one thing,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 718.0,
+      "end": 721.0,
+      "text": " yesterday, in yesterday's class,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 721.0,
+      "end": 723.0,
+      "text": " I told you one thing,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 723.0,
+      "end": 728.0,
+      "text": " that there is a relation of percentage and fraction."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 728.0,
+      "end": 730.0,
+      "text": " So, how to go from fraction to percentage?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 730.0,
+      "end": 732.0,
+      "text": " You multiply by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 732.0,
+      "end": 734.0,
+      "text": " If you want to go from percentage to fraction,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 734.0,
+      "end": 735.0,
+      "text": " you divide by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 735.0,
+      "end": 738.0,
+      "text": " So, this 3 by 5 is like fraction."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 738.0,
+      "end": 739.0,
+      "text": " How to go in percentage?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 739.0,
+      "end": 742.0,
+      "text": " You multiply 3 by 5 by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 742.0,
+      "end": 744.0,
+      "text": " It will come as 60%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 744.0,
+      "end": 747.0,
+      "text": " Now comes the original thing."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 747.0,
+      "end": 748.0,
+      "text": " What?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 748.0,
+      "end": 749.0,
+      "text": " So, think carefully."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 749.0,
+      "end": 750.0,
+      "text": " Think carefully."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 750.0,
+      "end": 752.0,
+      "text": " After 4 years,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 752.0,
+      "end": 755.0,
+      "text": " my simple interest became 60%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 755.0,
+      "end": 757.0,
+      "text": " I took 3 fifth as 60%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 757.0,
+      "end": 761.0,
+      "text": " So, in 4 years, I got 60% interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 761.0,
+      "end": 764.0,
+      "text": " This is interest in terms of percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 764.0,
+      "end": 766.0,
+      "text": " So, how much will I get in 1 year?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 766.0,
+      "end": 767.0,
+      "text": " Because I told you,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 767.0,
+      "end": 770.0,
+      "text": " simple interest is always linear, uniform."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 770.0,
+      "end": 776.0,
+      "text": " It will be same in 1 year, 2 years, 3 years, 4 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 776.0,
+      "end": 781.0,
+      "text": " So, if I divide the total interest by 4,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 781.0,
+      "end": 782.0,
+      "text": " I will get 1 interest for each year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 782.0,
+      "end": 783.0,
+      "text": " Why?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 783.0,
+      "end": 786.0,
+      "text": " Because in 4 years, I got 60% interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 786.0,
+      "end": 790.0,
+      "text": " So, interest per year will be how much?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 790.0,
+      "end": 793.0,
+      "text": " Can I say 60 divided by 4?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 793.0,
+      "end": 795.0,
+      "text": " That is 15%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 795.0,
+      "end": 798.0,
+      "text": " I am getting 15% interest every year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 798.0,
+      "end": 801.0,
+      "text": " I am getting 15% interest every year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 801.0,
+      "end": 802.0,
+      "text": " Now, you tell me,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 802.0,
+      "end": 804.0,
+      "text": " what is rate of interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 804.0,
+      "end": 806.0,
+      "text": " I told you one thing in the beginning."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 806.0,
+      "end": 811.0,
+      "text": " Whatever the interest is for 1 year,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 811.0,
+      "end": 813.0,
+      "text": " it is called rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 813.0,
+      "end": 814.0,
+      "text": " Look here,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 814.0,
+      "end": 818.0,
+      "text": " interest is 15% for 1 year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 818.0,
+      "end": 821.0,
+      "text": " So, that is nothing but my rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 821.0,
+      "end": 822.0,
+      "text": " That is option 3."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 823.0,
+      "end": 824.0,
+      "text": " Done."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 824.0,
+      "end": 828.0,
+      "text": " Now, if you wanted to go for the normal formula,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 828.0,
+      "end": 829.0,
+      "text": " the PTR by 100 formula,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 829.0,
+      "end": 831.0,
+      "text": " then you have to take something P,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 831.0,
+      "end": 833.0,
+      "text": " then the interest will become 3P by 5,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 833.0,
+      "end": 834.0,
+      "text": " then you have to solve."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 834.0,
+      "end": 837.0,
+      "text": " But this is much better way to go,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 837.0,
+      "end": 838.0,
+      "text": " if you ask me anytime."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 838.0,
+      "end": 840.0,
+      "text": " I hope this is getting cleared."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 840.0,
+      "end": 842.0,
+      "text": " Let's move on to the next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 844.0,
+      "end": 845.0,
+      "text": " So, this is the third question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 845.0,
+      "end": 851.0,
+      "text": " A sum of money amounts to Rs. 575 in 3 years"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 851.0,
+      "end": 854.0,
+      "text": " and Rs. 625 after 5 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 854.0,
+      "end": 856.0,
+      "text": " At the same rate of simple interest,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 856.0,
+      "end": 858.0,
+      "text": " what is the rate of interest per annum?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 858.0,
+      "end": 860.0,
+      "text": " This is a little tricky question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 860.0,
+      "end": 863.0,
+      "text": " Mostly for digital students."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 863.0,
+      "end": 866.0,
+      "text": " Mostly for digital type of students."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 866.0,
+      "end": 868.0,
+      "text": " Understand this thing well."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 868.0,
+      "end": 871.0,
+      "text": " So, we can do this in many ways."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 871.0,
+      "end": 873.0,
+      "text": " The big problem is,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 873.0,
+      "end": 876.0,
+      "text": " the amount that is given is a big problem."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 876.0,
+      "end": 878.0,
+      "text": " Now, for this question,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 878.0,
+      "end": 880.0,
+      "text": " we are going to use something called"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 880.0,
+      "end": 882.0,
+      "text": " method of difference."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 884.0,
+      "end": 888.0,
+      "text": " This is a particular technique,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 888.0,
+      "end": 891.0,
+      "text": " when you see there are two amounts given"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 891.0,
+      "end": 892.0,
+      "text": " or two interest given."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 892.0,
+      "end": 895.0,
+      "text": " So, we can do something by minusing it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 895.0,
+      "end": 896.0,
+      "text": " We can do something by taking difference."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 896.0,
+      "end": 898.0,
+      "text": " So, we are going to do that."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 898.0,
+      "end": 899.0,
+      "text": " But before that,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 899.0,
+      "end": 900.0,
+      "text": " you will say,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 900.0,
+      "end": 901.0,
+      "text": " what is the problem here?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 901.0,
+      "end": 902.0,
+      "text": " The amount is given."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 902.0,
+      "end": 906.0,
+      "text": " So, these 575 and 625,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 906.0,
+      "end": 907.0,
+      "text": " both are amounts."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 907.0,
+      "end": 909.0,
+      "text": " But understand this thing well."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 909.0,
+      "end": 911.0,
+      "text": " What is 625?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 911.0,
+      "end": 914.0,
+      "text": " Can I say this is amount means principal"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 914.0,
+      "end": 916.0,
+      "text": " plus interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 916.0,
+      "end": 918.0,
+      "text": " Now, how many years of interest is there?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 918.0,
+      "end": 920.0,
+      "text": " You will say, sir, this is 5 years of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 920.0,
+      "end": 922.0,
+      "text": " 5i."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 922.0,
+      "end": 923.0,
+      "text": " What is i?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 923.0,
+      "end": 925.0,
+      "text": " i is interest per one year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 925.0,
+      "end": 927.0,
+      "text": " I wrote i for one year's interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 927.0,
+      "end": 929.0,
+      "text": " So, 5 times of 5 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 929.0,
+      "end": 930.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 930.0,
+      "end": 931.0,
+      "text": " What is 575?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 931.0,
+      "end": 932.0,
+      "text": " You will say, sir,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 932.0,
+      "end": 935.0,
+      "text": " 575 is principal plus"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 935.0,
+      "end": 936.0,
+      "text": " how many years of interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 936.0,
+      "end": 937.0,
+      "text": " 3 years of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 937.0,
+      "end": 939.0,
+      "text": " So, 3i."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 939.0,
+      "end": 943.0,
+      "text": " So, see, if I minus both sides,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 943.0,
+      "end": 945.0,
+      "text": " then I have 50 rupees left here."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 945.0,
+      "end": 948.0,
+      "text": " Pp is deducted and this is coming out to be 2i."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 948.0,
+      "end": 949.0,
+      "text": " That means,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 949.0,
+      "end": 952.0,
+      "text": " my interest per year is 25 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 952.0,
+      "end": 955.0,
+      "text": " This is the interesting part."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 955.0,
+      "end": 957.0,
+      "text": " That means, you think,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 957.0,
+      "end": 959.0,
+      "text": " if this amount was given,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 959.0,
+      "end": 961.0,
+      "text": " if interest was given instead of amount,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 961.0,
+      "end": 963.0,
+      "text": " then it would not make any difference."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 963.0,
+      "end": 964.0,
+      "text": " Why?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 964.0,
+      "end": 965.0,
+      "text": " Because ultimately,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 965.0,
+      "end": 968.0,
+      "text": " the principal and principal are getting cancelled."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 968.0,
+      "end": 973.0,
+      "text": " So, that is the good thing about the method of difference."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 973.0,
+      "end": 975.0,
+      "text": " We can do this by using difference."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 975.0,
+      "end": 976.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 976.0,
+      "end": 977.0,
+      "text": " So, I got one thing."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 977.0,
+      "end": 979.0,
+      "text": " Let's take any value."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 979.0,
+      "end": 981.0,
+      "text": " Either we can do this or we can go by this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 981.0,
+      "end": 983.0,
+      "text": " Let's take a small value from this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 983.0,
+      "end": 984.0,
+      "text": " So, what do I know?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 984.0,
+      "end": 986.0,
+      "text": " So, the principal will come from here."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 986.0,
+      "end": 988.0,
+      "text": " See, principal plus"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 988.0,
+      "end": 991.0,
+      "text": " 3 years of interest, I know."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 991.0,
+      "end": 995.0,
+      "text": " Principal plus 3 years of interest is 575 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 995.0,
+      "end": 998.0,
+      "text": " And interest per year is 25 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 998.0,
+      "end": 999.0,
+      "text": " So, I will put it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 999.0,
+      "end": 1001.0,
+      "text": " So, my principal will come to be 500 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1001.0,
+      "end": 1003.0,
+      "text": " See, can I say this?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1003.0,
+      "end": 1004.0,
+      "text": " Is this line clear?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1004.0,
+      "end": 1005.0,
+      "text": " So, what did I do?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1005.0,
+      "end": 1007.0,
+      "text": " I put 25 instead of i."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1007.0,
+      "end": 1009.0,
+      "text": " So, 325 is 75."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1009.0,
+      "end": 1011.0,
+      "text": " If I minus, then I get the principal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1011.0,
+      "end": 1013.0,
+      "text": " Once I got the principal,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1013.0,
+      "end": 1015.0,
+      "text": " the question is almost done."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1015.0,
+      "end": 1016.0,
+      "text": " Why?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1016.0,
+      "end": 1019.0,
+      "text": " I know that there is a sum of 500 rupees and principal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1019.0,
+      "end": 1022.0,
+      "text": " In that, interest is 25 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1022.0,
+      "end": 1024.0,
+      "text": " They are asking rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1024.0,
+      "end": 1026.0,
+      "text": " I know the interest of one year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1026.0,
+      "end": 1028.0,
+      "text": " I also know how much is the interest on rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1028.0,
+      "end": 1030.0,
+      "text": " I just need the percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1030.0,
+      "end": 1032.0,
+      "text": " So, that means I need the percentage"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1032.0,
+      "end": 1036.0,
+      "text": " that the interest of 25 rupees is how much of 500."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1036.0,
+      "end": 1038.0,
+      "text": " There are two ways to go about this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1038.0,
+      "end": 1041.0,
+      "text": " You can say, interest of 25 rupees is on whom?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1041.0,
+      "end": 1044.0,
+      "text": " Multiply by 100 for the percentage of 500."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1044.0,
+      "end": 1048.0,
+      "text": " So, you will get 5%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1048.0,
+      "end": 1050.0,
+      "text": " But the better way is"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1050.0,
+      "end": 1052.0,
+      "text": " even better than doing this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1052.0,
+      "end": 1053.0,
+      "text": " What is better?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1053.0,
+      "end": 1054.0,
+      "text": " Now, think."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1054.0,
+      "end": 1057.0,
+      "text": " What is the percentage of 500?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1057.0,
+      "end": 1060.0,
+      "text": " They will say, sir, 10% of 500 is 50 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1060.0,
+      "end": 1062.0,
+      "text": " But, my interest is 25."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1062.0,
+      "end": 1065.0,
+      "text": " So, 50 is also half."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1065.0,
+      "end": 1068.0,
+      "text": " 25 is half of 50."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1068.0,
+      "end": 1074.0,
+      "text": " So, if I have to half it to get 25,"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1074.0,
+      "end": 1077.0,
+      "text": " then it will also become half here."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1077.0,
+      "end": 1079.0,
+      "text": " So, you will get rate of interest from there also."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1079.0,
+      "end": 1081.0,
+      "text": " Half of 10 is 5%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1081.0,
+      "end": 1084.0,
+      "text": " So, the answer will be option A, 5%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1084.0,
+      "end": 1086.0,
+      "text": " Look carefully."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1086.0,
+      "end": 1089.0,
+      "text": " This is the best way to solve this type of questions."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1089.0,
+      "end": 1090.0,
+      "text": " Now, look."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1090.0,
+      "end": 1092.0,
+      "text": " What can be the second one?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1092.0,
+      "end": 1094.0,
+      "text": " You can use the normal formula."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1094.0,
+      "end": 1096.0,
+      "text": " Look at the principle."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1096.0,
+      "end": 1097.0,
+      "text": " Then apply the formula of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1097.0,
+      "end": 1098.0,
+      "text": " PTR by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1098.0,
+      "end": 1101.0,
+      "text": " From there, solve two equations."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1101.0,
+      "end": 1103.0,
+      "text": " So, it will become lengthy."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1103.0,
+      "end": 1105.0,
+      "text": " But, the answer will be correct."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1105.0,
+      "end": 1108.0,
+      "text": " But, I will suggest you guys to use this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1108.0,
+      "end": 1109.0,
+      "text": " Learn it like this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1109.0,
+      "end": 1110.0,
+      "text": " This is the best method."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1110.0,
+      "end": 1112.0,
+      "text": " I hope this is clear."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1112.0,
+      "end": 1114.0,
+      "text": " Moving on to the next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1114.0,
+      "end": 1115.0,
+      "text": " Next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1115.0,
+      "end": 1122.0,
+      "text": " Certain money amounts to rupees 19.55% per annum after 6 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1122.0,
+      "end": 1130.0,
+      "text": " How much will it amount to at the same rate of interest after 8 years?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1130.0,
+      "end": 1131.0,
+      "text": " Great question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1131.0,
+      "end": 1133.0,
+      "text": " Now, this is again."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1133.0,
+      "end": 1136.0,
+      "text": " If you had given the amount and interest, it would have been easy."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1136.0,
+      "end": 1139.0,
+      "text": " But, apply the percentage concept here also."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1139.0,
+      "end": 1140.0,
+      "text": " Nothing can be better than that."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1140.0,
+      "end": 1141.0,
+      "text": " Think about it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1141.0,
+      "end": 1143.0,
+      "text": " 5% per annum for how many years?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1143.0,
+      "end": 1144.0,
+      "text": " For 6 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1144.0,
+      "end": 1146.0,
+      "text": " What will be the total interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1146.0,
+      "end": 1149.0,
+      "text": " Total interest will be 5 into 6."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1149.0,
+      "end": 1150.0,
+      "text": " 30%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1150.0,
+      "end": 1151.0,
+      "text": " Right?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1151.0,
+      "end": 1154.0,
+      "text": " So, what will be the amount in terms of percentage?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1154.0,
+      "end": 1155.0,
+      "text": " Can anyone tell me?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1155.0,
+      "end": 1156.0,
+      "text": " Can you guys tell me?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1156.0,
+      "end": 1158.0,
+      "text": " What will be the amount in terms of percentage?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1158.0,
+      "end": 1163.0,
+      "text": " Always, the principal is 100%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1163.0,
+      "end": 1165.0,
+      "text": " What will be the interest with that?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1165.0,
+      "end": 1166.0,
+      "text": " 30%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1166.0,
+      "end": 1168.0,
+      "text": " So, the amount will be 130%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1168.0,
+      "end": 1169.0,
+      "text": " Can I say?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1169.0,
+      "end": 1171.0,
+      "text": " 130% will be my amount."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1171.0,
+      "end": 1176.0,
+      "text": " That is given as 1950 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1176.0,
+      "end": 1177.0,
+      "text": " See it properly."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1177.0,
+      "end": 1179.0,
+      "text": " 1950 is the amount."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1179.0,
+      "end": 1183.0,
+      "text": " So, the amount of 130% is my 1950 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1183.0,
+      "end": 1185.0,
+      "text": " What they are asking?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1185.0,
+      "end": 1186.0,
+      "text": " Let's ask."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1186.0,
+      "end": 1188.0,
+      "text": " In 8 years, the same rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1188.0,
+      "end": 1190.0,
+      "text": " Means, 5% only."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1190.0,
+      "end": 1193.0,
+      "text": " So, you tell me, what will be the amount in that case?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1193.0,
+      "end": 1195.0,
+      "text": " If they will take, what will be the amount?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1195.0,
+      "end": 1198.0,
+      "text": " 100% is already there."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1198.0,
+      "end": 1199.0,
+      "text": " And what will be the interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1199.0,
+      "end": 1201.0,
+      "text": " 5% per year for 8 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1201.0,
+      "end": 1205.0,
+      "text": " 5 into 8 is 40%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1205.0,
+      "end": 1207.0,
+      "text": " So, 140% will be the amount."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1207.0,
+      "end": 1209.0,
+      "text": " They are asking, what will be the amount?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1209.0,
+      "end": 1210.0,
+      "text": " This is what they are asking."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1210.0,
+      "end": 1213.0,
+      "text": " So, see this is a question of unitary method."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1213.0,
+      "end": 1216.0,
+      "text": " So, the question is, I know the value of 130%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1216.0,
+      "end": 1218.0,
+      "text": " So, what will be the value of 1%?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1218.0,
+      "end": 1221.0,
+      "text": " 1950 by 130."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1221.0,
+      "end": 1224.0,
+      "text": " What will be the value of 140%?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1224.0,
+      "end": 1230.0,
+      "text": " They will say 1950 by 130 into 140."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1230.0,
+      "end": 1232.0,
+      "text": " Let's calculate this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1232.0,
+      "end": 1233.0,
+      "text": " How much will be the value of 13?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1233.0,
+      "end": 1236.0,
+      "text": " 13 ones are this, 13 fives are this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1236.0,
+      "end": 1240.0,
+      "text": " So, 15 into 140 is your answer."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1240.0,
+      "end": 1243.0,
+      "text": " 15 into 140 is going to be your answer."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1243.0,
+      "end": 1244.0,
+      "text": " Let's figure it out."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1244.0,
+      "end": 1245.0,
+      "text": " Let's calculate."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1245.0,
+      "end": 1247.0,
+      "text": " How can we do this?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1247.0,
+      "end": 1249.0,
+      "text": " 15 into 14 is the best."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1249.0,
+      "end": 1251.0,
+      "text": " So, I told you, the stick cross stick method."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1251.0,
+      "end": 1255.0,
+      "text": " 15, 14 like this, stick then cross then stick."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1255.0,
+      "end": 1259.0,
+      "text": " But, if I will put some brain here."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1259.0,
+      "end": 1262.0,
+      "text": " So, see 15 into 14."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1262.0,
+      "end": 1267.0,
+      "text": " So, see this, can I do this 15 into 15?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1267.0,
+      "end": 1269.0,
+      "text": " From there, we will do 15 minus."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1269.0,
+      "end": 1271.0,
+      "text": " Can I do this?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1271.0,
+      "end": 1272.0,
+      "text": " I removed 14."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1272.0,
+      "end": 1273.0,
+      "text": " How did I remove it?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1273.0,
+      "end": 1276.0,
+      "text": " Again, we will do 15 into 14 times."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1276.0,
+      "end": 1281.0,
+      "text": " 15 into 14 means 15 plus 15 plus 15 till 14 times."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1281.0,
+      "end": 1282.0,
+      "text": " So, what did I do?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1282.0,
+      "end": 1284.0,
+      "text": " I said, let's do one thing."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1284.0,
+      "end": 1286.0,
+      "text": " It is better to add 14 times."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1286.0,
+      "end": 1288.0,
+      "text": " Let's add for 15 times only."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1288.0,
+      "end": 1290.0,
+      "text": " From there, we will do minus once."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1290.0,
+      "end": 1292.0,
+      "text": " If we will do 15 minus once, it will look like this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1292.0,
+      "end": 1298.0,
+      "text": " Because, we know 15 square is 225 minus 15."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1298.0,
+      "end": 1299.0,
+      "text": " Which is very easy to calculate."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1299.0,
+      "end": 1300.0,
+      "text": " 210."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1300.0,
+      "end": 1302.0,
+      "text": " Now, there was a zero with it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1302.0,
+      "end": 1304.0,
+      "text": " So, the answer is going to be how much?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1304.0,
+      "end": 1306.0,
+      "text": " 2100 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1306.0,
+      "end": 1308.0,
+      "text": " Is there in the option?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1308.0,
+      "end": 1310.0,
+      "text": " See, it is sitting in option 3."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1310.0,
+      "end": 1314.0,
+      "text": " It is sitting in option 3 that rupees 2100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1314.0,
+      "end": 1316.0,
+      "text": " Again, very simple stuff."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1316.0,
+      "end": 1320.0,
+      "text": " If you know percentage, I guess by now you are getting the idea."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1320.0,
+      "end": 1323.0,
+      "text": " Why I was saying that solve with percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1323.0,
+      "end": 1325.0,
+      "text": " Don't go for formulas and everything."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1325.0,
+      "end": 1327.0,
+      "text": " Formula doesn't work everywhere."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1327.0,
+      "end": 1329.0,
+      "text": " Especially, if you want to do it short."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1329.0,
+      "end": 1333.0,
+      "text": " You will be able to do it with formula because you have learned it in school."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1333.0,
+      "end": 1335.0,
+      "text": " But, you have to do it like this also."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1335.0,
+      "end": 1337.0,
+      "text": " Because, time is a key factor in our exams."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1337.0,
+      "end": 1339.0,
+      "text": " Let's move on to the next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1339.0,
+      "end": 1341.0,
+      "text": " Let's move on to the next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1341.0,
+      "end": 1345.0,
+      "text": " Simple interest on 2000 increased by 80 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1345.0,
+      "end": 1349.0,
+      "text": " Simple interest on a sum of 2000."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1349.0,
+      "end": 1351.0,
+      "text": " This is my principle or P."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1351.0,
+      "end": 1359.0,
+      "text": " It increases by 80 rupees when the rate percentage increases by 2% per annum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1359.0,
+      "end": 1361.0,
+      "text": " Find the time in years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1361.0,
+      "end": 1363.0,
+      "text": " So, what happened?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1363.0,
+      "end": 1371.0,
+      "text": " If I increase the interest rate by 2%, then my interest on 2000 increases by 80 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1371.0,
+      "end": 1373.0,
+      "text": " Can I say this?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1373.0,
+      "end": 1375.0,
+      "text": " Now, think."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1375.0,
+      "end": 1379.0,
+      "text": " If I increase 2% on 2000, then how much should increase in a year?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1379.0,
+      "end": 1384.0,
+      "text": " Can I say that if I increase 2% on 2000, then 2% will increase by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1384.0,
+      "end": 1386.0,
+      "text": " So, 0, 0 gone."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1386.0,
+      "end": 1388.0,
+      "text": " So, you will get 40."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1388.0,
+      "end": 1398.0,
+      "text": " So, my thing is that if I keep 2000 on the bank and the bank starts giving 2% more interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1398.0,
+      "end": 1402.0,
+      "text": " Then, I will get 40 rupees more every year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1402.0,
+      "end": 1403.0,
+      "text": " See it properly."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1403.0,
+      "end": 1408.0,
+      "text": " If the bank increases 2% interest on 2000, then I will get 40 rupees more."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1408.0,
+      "end": 1410.0,
+      "text": " But in a year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1410.0,
+      "end": 1411.0,
+      "text": " Please understand."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1411.0,
+      "end": 1413.0,
+      "text": " How much will I get for one year?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1413.0,
+      "end": 1414.0,
+      "text": " For one year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1414.0,
+      "end": 1416.0,
+      "text": " Now, they are asking."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1416.0,
+      "end": 1418.0,
+      "text": " What happened?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1418.0,
+      "end": 1420.0,
+      "text": " My interest increased by 80 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1420.0,
+      "end": 1424.0,
+      "text": " My interest increased by 80 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1424.0,
+      "end": 1427.0,
+      "text": " So, they are asking how many years I kept it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1427.0,
+      "end": 1428.0,
+      "text": " So, you tell me."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1428.0,
+      "end": 1432.0,
+      "text": " If I increase 40 in a year, then how many years will increase 80?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1432.0,
+      "end": 1433.0,
+      "text": " It's very, very simple."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1433.0,
+      "end": 1435.0,
+      "text": " It will increase in 2 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1435.0,
+      "end": 1436.0,
+      "text": " That is your answer."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1436.0,
+      "end": 1438.0,
+      "text": " Two questions of two lines."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1438.0,
+      "end": 1440.0,
+      "text": " If you know."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1440.0,
+      "end": 1442.0,
+      "text": " I hope this is clear."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1442.0,
+      "end": 1444.0,
+      "text": " 40 rupees for one year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1444.0,
+      "end": 1447.0,
+      "text": " If 40 increases in a year, then it will take 2 years to increase 80."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1447.0,
+      "end": 1449.0,
+      "text": " That's as simple as that."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1449.0,
+      "end": 1451.0,
+      "text": " Moving on to the next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1451.0,
+      "end": 1455.0,
+      "text": " Now, for what time in years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1455.0,
+      "end": 1462.0,
+      "text": " Means in how many years a sum of money will become 4 times itself at 10% per annum."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1462.0,
+      "end": 1464.0,
+      "text": " Honestly speaking, to ask this type of question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1464.0,
+      "end": 1466.0,
+      "text": " You don't need pen, paper, anything."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1466.0,
+      "end": 1468.0,
+      "text": " Okay, you think."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1468.0,
+      "end": 1470.0,
+      "text": " You think."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1470.0,
+      "end": 1472.0,
+      "text": " What was my principle?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1472.0,
+      "end": 1476.0,
+      "text": " Principle was always 100%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1476.0,
+      "end": 1478.0,
+      "text": " We are doing everything in percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1478.0,
+      "end": 1482.0,
+      "text": " What will be the principle of increasing 4 times?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1482.0,
+      "end": 1483.0,
+      "text": " Now, the amount."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1483.0,
+      "end": 1485.0,
+      "text": " So, what will be the amount?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1485.0,
+      "end": 1486.0,
+      "text": " You tell me."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1486.0,
+      "end": 1488.0,
+      "text": " The amount has become 4 times."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1488.0,
+      "end": 1490.0,
+      "text": " That means the percentage term has become 400%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1491.0,
+      "end": 1493.0,
+      "text": " Can you guys tell me what is the interest here?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1493.0,
+      "end": 1499.0,
+      "text": " Can you guys tell me what will be the interest in terms of percentage?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1499.0,
+      "end": 1503.0,
+      "text": " Can I say that 100% was the principle."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1503.0,
+      "end": 1505.0,
+      "text": " It increased and became 400%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1505.0,
+      "end": 1507.0,
+      "text": " So, how much did the interest increase?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1507.0,
+      "end": 1509.0,
+      "text": " Can I say that will be 300%?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1509.0,
+      "end": 1511.0,
+      "text": " 400 minus 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1511.0,
+      "end": 1513.0,
+      "text": " What did I get 300%?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1513.0,
+      "end": 1515.0,
+      "text": " My interest became."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1515.0,
+      "end": 1518.0,
+      "text": " So, 10% per annum is the rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1518.0,
+      "end": 1520.0,
+      "text": " I get 10% every year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1520.0,
+      "end": 1523.0,
+      "text": " How many years will I get 300%?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1523.0,
+      "end": 1525.0,
+      "text": " 300% is 300."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1525.0,
+      "end": 1528.0,
+      "text": " If I divide 10 in every year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1528.0,
+      "end": 1531.0,
+      "text": " So, I will get this in 30 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1531.0,
+      "end": 1534.0,
+      "text": " My money will be 4 times."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1534.0,
+      "end": 1538.0,
+      "text": " Till when my 30 years is the answer."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1538.0,
+      "end": 1540.0,
+      "text": " This is going to happen in 30 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1540.0,
+      "end": 1542.0,
+      "text": " So, that is option A."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1542.0,
+      "end": 1544.0,
+      "text": " First option is 30 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1544.0,
+      "end": 1546.0,
+      "text": " That is my answer."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1546.0,
+      "end": 1548.0,
+      "text": " I hope this is clear."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1548.0,
+      "end": 1550.0,
+      "text": " Moving on to the next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1550.0,
+      "end": 1554.0,
+      "text": " A sum of money becomes double in 20 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1554.0,
+      "end": 1556.0,
+      "text": " At the rate of simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1556.0,
+      "end": 1561.0,
+      "text": " In how many years will it become 4 times itself at the same rate of interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1561.0,
+      "end": 1565.0,
+      "text": " The last question is a little advanced."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1565.0,
+      "end": 1567.0,
+      "text": " Last question was very simple."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1567.0,
+      "end": 1570.0,
+      "text": " So, one more line and concept is added to it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1570.0,
+      "end": 1573.0,
+      "text": " So, again we don't need pen and paper."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1573.0,
+      "end": 1576.0,
+      "text": " What is the meaning of double?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1576.0,
+      "end": 1579.0,
+      "text": " What was the principle of double?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1579.0,
+      "end": 1583.0,
+      "text": " I said that the principle is always my 100%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1583.0,
+      "end": 1587.0,
+      "text": " Double means this has become 200%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1587.0,
+      "end": 1589.0,
+      "text": " Double is done."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1589.0,
+      "end": 1591.0,
+      "text": " That means how much interest will I get?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1591.0,
+      "end": 1593.0,
+      "text": " How much percentage is the interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1593.0,
+      "end": 1595.0,
+      "text": " I can say 100% is the interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1595.0,
+      "end": 1598.0,
+      "text": " If we do 100 plus 100, it will be 200."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1598.0,
+      "end": 1600.0,
+      "text": " So, 100% is my interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1600.0,
+      "end": 1602.0,
+      "text": " In how many years?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1602.0,
+      "end": 1605.0,
+      "text": " We will say that this has happened in 20 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1605.0,
+      "end": 1609.0,
+      "text": " It will be fine if you take out the year's value."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1609.0,
+      "end": 1611.0,
+      "text": " Why? I will tell you."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1611.0,
+      "end": 1613.0,
+      "text": " It has to become 4 times."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1613.0,
+      "end": 1616.0,
+      "text": " If it has to become 4 times, what will be the amount?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1616.0,
+      "end": 1618.0,
+      "text": " I will write directly."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1618.0,
+      "end": 1622.0,
+      "text": " If it has to become 4 times, then the amount is going to be 400%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1622.0,
+      "end": 1624.0,
+      "text": " So, what will be the interest?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1624.0,
+      "end": 1627.0,
+      "text": " The same concept was in the last question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1627.0,
+      "end": 1630.0,
+      "text": " 100% is the principle and 400% is the amount."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1630.0,
+      "end": 1632.0,
+      "text": " So, my interest has become 300%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1632.0,
+      "end": 1635.0,
+      "text": " They are asking how many years will it take?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1635.0,
+      "end": 1636.0,
+      "text": " You tell me."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1636.0,
+      "end": 1643.0,
+      "text": " 100% interest is my interest in 20 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1643.0,
+      "end": 1647.0,
+      "text": " 300% interest will be in how many years?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1647.0,
+      "end": 1649.0,
+      "text": " I need 3 times of 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1649.0,
+      "end": 1651.0,
+      "text": " So, I need 3 times of time."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1651.0,
+      "end": 1654.0,
+      "text": " That will be 20 into 3."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1654.0,
+      "end": 1656.0,
+      "text": " That is 60 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1656.0,
+      "end": 1664.0,
+      "text": " So, to make this thing 4 times, I need 60 years which is option A once again."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1664.0,
+      "end": 1666.0,
+      "text": " That is my answer."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1666.0,
+      "end": 1669.0,
+      "text": " I hope this is getting clear to everybody."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1669.0,
+      "end": 1672.0,
+      "text": " Let's move on to the next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1672.0,
+      "end": 1674.0,
+      "text": " Question no. 8."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1674.0,
+      "end": 1676.0,
+      "text": " That is this question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1676.0,
+      "end": 1677.0,
+      "text": " A good question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1677.0,
+      "end": 1680.0,
+      "text": " Now, you will get better questions."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1681.0,
+      "end": 1686.0,
+      "text": " 1500 rupees is lent on 6% for 10 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1686.0,
+      "end": 1692.0,
+      "text": " And Rs. 3000 is lent on 5% for T years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1692.0,
+      "end": 1697.0,
+      "text": " If the interests are the same, then find the value of T."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1697.0,
+      "end": 1699.0,
+      "text": " Now, let me tell you one thing."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1699.0,
+      "end": 1703.0,
+      "text": " Neither you have been told simple interest nor compound interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1703.0,
+      "end": 1706.0,
+      "text": " So, this is very very important to understand."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1706.0,
+      "end": 1709.0,
+      "text": " If nothing is said, I am writing it over here."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1709.0,
+      "end": 1722.0,
+      "text": " If nothing is given, always consider simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1722.0,
+      "end": 1724.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1724.0,
+      "end": 1735.0,
+      "text": " Again, if there is no specific type of interest, then always consider simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1735.0,
+      "end": 1740.0,
+      "text": " If compound interest is said, then compound interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1740.0,
+      "end": 1742.0,
+      "text": " If simple interest is said, then simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1742.0,
+      "end": 1746.0,
+      "text": " But if nothing is said, then also you will always take simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1746.0,
+      "end": 1748.0,
+      "text": " That is kind of a thumb rule you can say."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1748.0,
+      "end": 1749.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1749.0,
+      "end": 1752.0,
+      "text": " I didn't make it, so there is no use of telling me."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1752.0,
+      "end": 1756.0,
+      "text": " Now, both of your simple interest is same."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1756.0,
+      "end": 1762.0,
+      "text": " In this format, let's say the amount is 1500."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1762.0,
+      "end": 1764.0,
+      "text": " 6% for 10 years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1764.0,
+      "end": 1766.0,
+      "text": " Then how much interest will come from here?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1766.0,
+      "end": 1769.0,
+      "text": " Interest is going to be 60%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1769.0,
+      "end": 1770.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1770.0,
+      "end": 1773.0,
+      "text": " So, you think how much total interest will come?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1773.0,
+      "end": 1777.0,
+      "text": " 60% of 1500 because interest 60%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1777.0,
+      "end": 1778.0,
+      "text": " Whose 60%?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1778.0,
+      "end": 1780.0,
+      "text": " 60% of principal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1780.0,
+      "end": 1782.0,
+      "text": " So, 1500 is the principal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1782.0,
+      "end": 1785.0,
+      "text": " Its 60% is 60 over 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1785.0,
+      "end": 1786.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1786.0,
+      "end": 1788.0,
+      "text": " Now, come to the second part."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1788.0,
+      "end": 1790.0,
+      "text": " This is the principal now."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1790.0,
+      "end": 1793.0,
+      "text": " 3000, 5% for T years."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1793.0,
+      "end": 1795.0,
+      "text": " So, 5% in a year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1795.0,
+      "end": 1798.0,
+      "text": " So, interest in T years will be 5 into T%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1798.0,
+      "end": 1800.0,
+      "text": " Whose 5T%?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1800.0,
+      "end": 1802.0,
+      "text": " 3000's 5T%."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1802.0,
+      "end": 1807.0,
+      "text": " So, interest is 3000 into 5T over 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1807.0,
+      "end": 1811.0,
+      "text": " So, they are saying that the interest is same for both."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1811.0,
+      "end": 1813.0,
+      "text": " So, both are equal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1813.0,
+      "end": 1814.0,
+      "text": " Okay, remove it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1814.0,
+      "end": 1816.0,
+      "text": " 2 will go from 1500."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1816.0,
+      "end": 1817.0,
+      "text": " 100, 100 is gone."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1817.0,
+      "end": 1818.0,
+      "text": " 5, 2's are 10."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1818.0,
+      "end": 1819.0,
+      "text": " This is 6."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1819.0,
+      "end": 1822.0,
+      "text": " So, look, simply the value of T is 6."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1822.0,
+      "end": 1824.0,
+      "text": " It comes in two lines."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1824.0,
+      "end": 1825.0,
+      "text": " T's value is how much?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1825.0,
+      "end": 1828.0,
+      "text": " T's value is 6 years which is option 2."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1828.0,
+      "end": 1830.0,
+      "text": " Which is option 2."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1830.0,
+      "end": 1832.0,
+      "text": " Now, we have got a little chance here."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1832.0,
+      "end": 1834.0,
+      "text": " So, let me give you guys."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1834.0,
+      "end": 1837.0,
+      "text": " Look, this thing."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1837.0,
+      "end": 1840.0,
+      "text": " Here, we can use this formula also."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1840.0,
+      "end": 1843.0,
+      "text": " So, let me give you guys a simple idea."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1843.0,
+      "end": 1845.0,
+      "text": " How does this formula comes?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1845.0,
+      "end": 1846.0,
+      "text": " For example, we all know."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1846.0,
+      "end": 1852.0,
+      "text": " We all know that the formula of interest is P into T into R divided by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1852.0,
+      "end": 1853.0,
+      "text": " Right."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1853.0,
+      "end": 1855.0,
+      "text": " I have told this formula but I have not shown its proof."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1855.0,
+      "end": 1856.0,
+      "text": " Learn a little."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1856.0,
+      "end": 1860.0,
+      "text": " If you know a little, you will get more idea that why the question is happening with percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1860.0,
+      "end": 1861.0,
+      "text": " Okay."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1861.0,
+      "end": 1863.0,
+      "text": " It is a small thing."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1863.0,
+      "end": 1864.0,
+      "text": " You think."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1864.0,
+      "end": 1870.0,
+      "text": " There is principle is P, T years, R is the rate of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1870.0,
+      "end": 1871.0,
+      "text": " So, you think."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1871.0,
+      "end": 1873.0,
+      "text": " How much will be the interest of one year?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1873.0,
+      "end": 1876.0,
+      "text": " One year interest is R percent."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1876.0,
+      "end": 1879.0,
+      "text": " So, what will be the interest of T years?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1879.0,
+      "end": 1881.0,
+      "text": " What will be the interest of T years?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1881.0,
+      "end": 1883.0,
+      "text": " Can I say T into R percent?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1883.0,
+      "end": 1885.0,
+      "text": " This is my T year interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1885.0,
+      "end": 1888.0,
+      "text": " The interest of T year is T into R percent."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1888.0,
+      "end": 1889.0,
+      "text": " On whom is it?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1889.0,
+      "end": 1891.0,
+      "text": " TR percent of what?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1891.0,
+      "end": 1892.0,
+      "text": " Can I say?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1892.0,
+      "end": 1893.0,
+      "text": " It is on principle."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1893.0,
+      "end": 1897.0,
+      "text": " So, the interest I will get is this much percent of principle."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1897.0,
+      "end": 1899.0,
+      "text": " TR percent means TR by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1900.0,
+      "end": 1903.0,
+      "text": " So, if you write this properly, then it is seen."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1903.0,
+      "end": 1907.0,
+      "text": " P into T into R divided by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1907.0,
+      "end": 1910.0,
+      "text": " That is how actually the formula comes."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1910.0,
+      "end": 1914.0,
+      "text": " The formula comes from the same concept."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1914.0,
+      "end": 1917.0,
+      "text": " See the same concept we used here."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1917.0,
+      "end": 1919.0,
+      "text": " Similarly, we used here."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1919.0,
+      "end": 1924.0,
+      "text": " Both of these are exactly the same formulas."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1924.0,
+      "end": 1926.0,
+      "text": " Means same concept."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1926.0,
+      "end": 1928.0,
+      "text": " Formula is made from there."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1928.0,
+      "end": 1936.0,
+      "text": " So, always remember that the formula is not made by a genius or a master."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1936.0,
+      "end": 1941.0,
+      "text": " Simply, whatever I am telling you, these shortcuts are made by calculating everything."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1941.0,
+      "end": 1943.0,
+      "text": " I have told some shortcuts."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1943.0,
+      "end": 1948.0,
+      "text": " The more you practice, the more small things you will observe."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1948.0,
+      "end": 1952.0,
+      "text": " The more shortcuts will be made in your mind."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1952.0,
+      "end": 1959.0,
+      "text": " It is not necessary that every shortcut will be given or written in a book or some material."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1959.0,
+      "end": 1961.0,
+      "text": " Or some teacher will tell."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1961.0,
+      "end": 1963.0,
+      "text": " Many shortcuts are developed by themselves."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1963.0,
+      "end": 1965.0,
+      "text": " Which only will work for you."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1965.0,
+      "end": 1970.0,
+      "text": " And if you ever teach, then you can tell the students."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1970.0,
+      "end": 1972.0,
+      "text": " So, this is how it works."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1972.0,
+      "end": 1974.0,
+      "text": " Let's move on to the next question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1974.0,
+      "end": 1977.0,
+      "text": " Question no. 9."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1978.0,
+      "end": 1992.0,
+      "text": " 1750 rupees divided into two parts such that the interest on the first part at 8% simple interest per annum and that on the other part is 6% simple interest per annum are equal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1992.0,
+      "end": 1995.0,
+      "text": " The interest on each part in rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 1995.0,
+      "end": 2000.0,
+      "text": " If you ask the interest of two things, then the option is the same."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2000.0,
+      "end": 2002.0,
+      "text": " Think that both are equal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2002.0,
+      "end": 2005.0,
+      "text": " So, that means the interest of both the parts will be the same."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2006.0,
+      "end": 2007.0,
+      "text": " Now, what to do about this?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2007.0,
+      "end": 2010.0,
+      "text": " 1750 was divided into two parts."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2010.0,
+      "end": 2013.0,
+      "text": " So, I took the first part."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2013.0,
+      "end": 2017.0,
+      "text": " Let's take x."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2017.0,
+      "end": 2019.0,
+      "text": " So, what will be the second part?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2019.0,
+      "end": 2022.0,
+      "text": " What will be the second part?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2022.0,
+      "end": 2025.0,
+      "text": " See, I took the first part."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2025.0,
+      "end": 2028.0,
+      "text": " So, the second part will be 1750 minus x."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2028.0,
+      "end": 2031.0,
+      "text": " So, I got both the parts."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2031.0,
+      "end": 2033.0,
+      "text": " Now, what is going on on the first part?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2033.0,
+      "end": 2035.0,
+      "text": " 8% simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2035.0,
+      "end": 2040.0,
+      "text": " So, the annum has not given anything of the year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2040.0,
+      "end": 2043.0,
+      "text": " That means the interest is equal every year."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2043.0,
+      "end": 2044.0,
+      "text": " So, it's good."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2044.0,
+      "end": 2050.0,
+      "text": " So, on the first part, 8% simple interest means 8% of the first part."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2050.0,
+      "end": 2052.0,
+      "text": " That is x into 8 by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2052.0,
+      "end": 2054.0,
+      "text": " What is in the second part?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2054.0,
+      "end": 2055.0,
+      "text": " 6% simple interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2055.0,
+      "end": 2058.0,
+      "text": " That means the second part is 1750 minus x."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2058.0,
+      "end": 2061.0,
+      "text": " Its 6% means 6 by 100."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2062.0,
+      "end": 2064.0,
+      "text": " So, they are saying both are equal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2064.0,
+      "end": 2065.0,
+      "text": " So, equate both."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2065.0,
+      "end": 2068.0,
+      "text": " So, the calculation is 100, 100 gone."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2068.0,
+      "end": 2069.0,
+      "text": " This is 3, this is 4."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2069.0,
+      "end": 2079.0,
+      "text": " So, we are getting 4x equal to 1750 into 3 minus 3x."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2079.0,
+      "end": 2081.0,
+      "text": " See, we are not going to do everything."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2081.0,
+      "end": 2086.0,
+      "text": " So, when you bring this to this side, it will become 4x plus 3x."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2086.0,
+      "end": 2087.0,
+      "text": " That is 7x."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2087.0,
+      "end": 2089.0,
+      "text": " 1750 into 3."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2089.0,
+      "end": 2091.0,
+      "text": " See, I avoided the calculation."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2091.0,
+      "end": 2092.0,
+      "text": " How did I avoid?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2092.0,
+      "end": 2098.0,
+      "text": " If you see carefully, I could have easily multiplied 175 into 3."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2098.0,
+      "end": 2099.0,
+      "text": " I didn't do it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2099.0,
+      "end": 2100.0,
+      "text": " Why? It will be deducted later."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2100.0,
+      "end": 2106.0,
+      "text": " So, the value of x will be 1750 into 3 divided by 7."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2106.0,
+      "end": 2108.0,
+      "text": " So, let's do the calculation now."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2108.0,
+      "end": 2110.0,
+      "text": " 7 twos are 14."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2110.0,
+      "end": 2111.0,
+      "text": " Otherwise, what would have happened?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2111.0,
+      "end": 2115.0,
+      "text": " If I had multiplied then, I would have to divide it again."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2115.0,
+      "end": 2117.0,
+      "text": " So, it's better."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2117.0,
+      "end": 2121.0,
+      "text": " So, I will divide first and then multiply again."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2121.0,
+      "end": 2122.0,
+      "text": " Why do it again and again?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2122.0,
+      "end": 2125.0,
+      "text": " So, 7 twos are 14."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2125.0,
+      "end": 2126.0,
+      "text": " So, 7 fives are this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2126.0,
+      "end": 2127.0,
+      "text": " This is this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2127.0,
+      "end": 2130.0,
+      "text": " So, 25 threes are 75."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2130.0,
+      "end": 2132.0,
+      "text": " So, 750 is your answer."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2132.0,
+      "end": 2135.0,
+      "text": " Now, 750 is not exactly the answer."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2135.0,
+      "end": 2137.0,
+      "text": " 750 is the one part."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2137.0,
+      "end": 2138.0,
+      "text": " So, what is the second part?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2138.0,
+      "end": 2140.0,
+      "text": " No need to calculate."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2140.0,
+      "end": 2141.0,
+      "text": " Because they are not asking what are the parts."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2141.0,
+      "end": 2144.0,
+      "text": " They are asking what is the interest in those parts."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2144.0,
+      "end": 2145.0,
+      "text": " What happened here?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2145.0,
+      "end": 2147.0,
+      "text": " This equation is made."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2147.0,
+      "end": 2149.0,
+      "text": " On whose basis is this equation made?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2149.0,
+      "end": 2150.0,
+      "text": " Understand it properly."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2150.0,
+      "end": 2154.0,
+      "text": " This is the interest on the first part."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2154.0,
+      "end": 2155.0,
+      "text": " What is this?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2155.0,
+      "end": 2158.0,
+      "text": " The right hand side is also my interest on the second part."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2158.0,
+      "end": 2159.0,
+      "text": " Okay?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2159.0,
+      "end": 2161.0,
+      "text": " This is also my interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2161.0,
+      "end": 2162.0,
+      "text": " Both the interests are equal."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2162.0,
+      "end": 2164.0,
+      "text": " That's why I have equated it."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2164.0,
+      "end": 2165.0,
+      "text": " Understand this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2165.0,
+      "end": 2167.0,
+      "text": " Both the interests are same."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2167.0,
+      "end": 2170.0,
+      "text": " That's why I have equated them."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2170.0,
+      "end": 2171.0,
+      "text": " Correct?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2171.0,
+      "end": 2172.0,
+      "text": " Now, understand this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2172.0,
+      "end": 2174.0,
+      "text": " They are not asking what is the value of x."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2174.0,
+      "end": 2176.0,
+      "text": " Or what is the value of 1750 minus x."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2176.0,
+      "end": 2178.0,
+      "text": " They are asking what is the value of interest."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2178.0,
+      "end": 2182.0,
+      "text": " That means they are asking what is the value of either of these two sides."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2182.0,
+      "end": 2184.0,
+      "text": " So, let's calculate."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2184.0,
+      "end": 2186.0,
+      "text": " The left one is small."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2186.0,
+      "end": 2188.0,
+      "text": " So, x is 750."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2188.0,
+      "end": 2189.0,
+      "text": " What is its percentage?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2189.0,
+      "end": 2190.0,
+      "text": " 8 percent."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2190.0,
+      "end": 2191.0,
+      "text": " Now, let's calculate."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2191.0,
+      "end": 2192.0,
+      "text": " This is gone."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2192.0,
+      "end": 2193.0,
+      "text": " Okay?"
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2193.0,
+      "end": 2195.0,
+      "text": " So, 5 twos are this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2195.0,
+      "end": 2197.0,
+      "text": " 5 fifteens are 75."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2197.0,
+      "end": 2199.0,
+      "text": " 2 fours are this."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2199.0,
+      "end": 2201.0,
+      "text": " So, 15 into 4 is coming."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2201.0,
+      "end": 2204.0,
+      "text": " 15 into 4 is coming out to be 60 rupees."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2204.0,
+      "end": 2206.0,
+      "text": " So, 60 is in option."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2206.0,
+      "end": 2208.0,
+      "text": " Again, it is in option."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2208.0,
+      "end": 2210.0,
+      "text": " In A or first option."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2210.0,
+      "end": 2212.0,
+      "text": " I hope this is clear."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2212.0,
+      "end": 2213.0,
+      "text": " Very, very simple stuff."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2213.0,
+      "end": 2218.0,
+      "text": " Now, if you wanted, you could have used the PTR by 100 formula as well here also."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2218.0,
+      "end": 2219.0,
+      "text": " No issues there."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2219.0,
+      "end": 2220.0,
+      "text": " There will be no problem."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2220.0,
+      "end": 2222.0,
+      "text": " The same answer will come."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2222.0,
+      "end": 2224.0,
+      "text": " But again, as I am saying continuously."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2224.0,
+      "end": 2226.0,
+      "text": " Let's start with percentage."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2226.0,
+      "end": 2228.0,
+      "text": " It will be a little easy in long run."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2228.0,
+      "end": 2229.0,
+      "text": " It will be very easy."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2229.0,
+      "end": 2233.0,
+      "text": " Now, very, very, very, very good question."
+    },
+    {
+      "number": "06",
+      "title": "Simple_Interest",
+      "start": 2233.0,
+      "end": 2235.0,
+      "text": " This is a special type question."
+    }
+  ],
+  "text": " Hello everyone, welcome to Apna College. So, the last three days of the class are over. In which we learned the calculation on the first day, and solved the simplification on the second day. And the last video was about the percentage, how to calculate percentage. Now the next topic, that is simple interest, that we are going to do in this particular video. I hope you all are good. Let's start. So, the simple interest that we have to understand, first of all, what is simple interest? That is very important to understand. Why? Because, there are two parts of interest. As we all know, there is one simple interest, and one compound interest. So, to understand compound interest well, it is also very important to understand what is simple interest. And there are certain things that you can use. Let's understand. Let's say, I have kept 1000 rupees in the bank. And the bank is saying, I will give you 10% interest per annum. P.A stands for per annum. Meaning, in one year, I will give you 10% interest. Okay. Now, you guys tell me, after one year, how much interest will I get? How much interest will I get? You will say, sir, 10% of 1000. We will go in the formula, but let's understand using percentage. 10% of 1000 rupees, that is 100 rupees. That is my interest for the first year. I am writing it over here, interest for first year. Okay. Now, this is the first year's interest. Now, what about the second year? How much interest will you get in the second year? You will say, sir, it will again be 100 rupees. That is the main point of this simple interest thing. Main concept. How much interest will you get in the second year? Second year. Interest for second year. That will also be the same. Always understand, simple interest means that you will get 10% interest every year. It does not matter that you are talking about first year, second year, third year. Even in the 100th year also. If you keep the money for 100 years, then also you will get 100 rupees. Not more, not less. So, that means what I am trying to convey is, What will happen in simple interest? Interest will always be the same. Interest will be constant. Irrespective of whatever number of years are there. So, if the number of years is more, then the interest will increase. But, how much will be the year? You will get 10% every year. Every year 10% means in this case, you will get 100 rupees. So, it is not that if you keep it for 10 years, then you will get the most in the 10th year. That happens in compound interest. Here, the interest of the first year will be the same for the 10th year, 50th year and 100th year. That interest will never increase. Okay. That is the main thing. Now, how is it calculated? You can calculate this in two types. One is using percentage. Another is using a formula. We all know the formula of simple interest. Honestly speaking, this formula also comes from percentage. But, let's understand what is that. Interest is P into T into R divided by 100. This is the simple interest formula. I hope everybody knows this. What is it? P stands for your principal or the sum. Okay. The amount of money you have kept. T stands for our time. Okay. Generally, we take time in years. Because, most of the time, the rate of interest that is given, R stands for rate of interest. Generally, the rate of interest is given per annum. That is why, we take time in years. If the rate of interest is given in per month basis, then you have to take T in a month. That is the only change. Okay. So, this is the formula for calculating simple interest. But, what I generally prefer, I don't prefer using this particular formula. And, I will suggest you guys to do the same as well. Why? If you learn simple interest in percentage, using simple concepts of percentage. Look, I told you in the last video of percentage, that there are two chapters in arithmetic. One is percentage. One is percentage. Another chapter is ratio. So, if you know these two chapters, if you can solve these two chapters, if you know these concepts well, then you can do any sort of questions. That's all I can tell you. You can do any question of arithmetic, if you know these two concepts well. That is the given condition. Okay. So, how will we learn percentage in it? Let's learn how to think of simple interest in percentage. Okay. So, let's move to the next page. Look, I have given the heading as simple interest as percentage of principle. Always remember, the interest that is always percentage. For example, if I say, let's take the same example. I have kept 1000 rupees. At the rate of interest is 10% per annum. And I have kept this money for 5 years. Okay. So, look, you can do two ways. You can calculate in two ways. First is, definitely you can do like this. Interest will be, principle is my 1000 rupees. Into, t into r. So, formula was p into t into r. So, t is 5 years. Put it. r is 10. Divided by 100. So, from here you can calculate. But this is a simple question. You have done it with formula. But some questions will come, which will be bigger if you apply formula. It's not that the question will not be made. It will be made. But it will be a little lengthy. It will be a little difficult. That is why it is important that you think well. Can we think in this manner? That I get 10% interest every year. 10% per annum is the rate of interest. The ROI is this. That means rate of interest 10% means, every year bank will give me 10% more. Will give extra as my interest. If I kept some money, then 10% of that bank gave me extra. Right. Now, can you guys tell me, if we keep 5 years, then how much percent will I get? Can I say every year 10%? So, in 5 years, how much will it come? In 5 years, I will get 50% interest. 10% of every year. 50% in 5 years. Now, the next question becomes, this 50%, 50% of what? Whose 50%? That is the next question. 50% interest will be received. But whose 50%? Always remember, interest will get calculated on your principal. Which is also called sum. Okay. This is also called sum. That is P. Nothing but P. So, whatever money you have kept, always the interest is the percentage of the principal. So, I can say like this, the 1000 rupees which was my principal, in this case, its 50% means 50 over 100. So, it comes to 500 rupees. By calculating. I am calculating here, see, this 10 became from here. So, see, here also you got 500 rupees. So, you can either go like this, but the better way, if you ask me, will be to learn the subject, learn the chapter like this. What will happen in this? When you solve the question, you will tell yourself that, if you take interest in percentage, then it becomes very simple. Okay. Perfect. Now, another key concept here, is rate of interest. I have asked you, rate of interest. I have asked you, tell me, what will be the rate of interest? So, how will you define the rate of interest? In percentage terms. Always remember, the total interest that you will get, interest for one year, that is your rate of interest, in terms of percentage. In terms of, if you apply, like, like kind of, do this in percentage. See, the interest that you get for one year, that is my rate of interest. Now, think, that rate of interest is found in per annum. Per annum means, the interest that you get in one year, that is my rate of interest. That is the easiest way, you can calculate simple interest. I hope this much is clear. Let's move on then. Let's move on to the, first question of the day. It's a very simple question, just the beginning. Very simple. 1500 rupees is given at a rate of 6% for 5 years. How much will be the amount? Now comes the next concept, that is amount. What is amount? See, this amount is a very simple thing. Amount means, principle, plus the interest. That is the best way to understand. See, understand it properly. It's very simple. See, I have kept 10,000 rupees in a bank. So, the bank gave me 50% interest for 5 years, by giving me 10%. Okay. So, now when I go to the bank, then 50% above 10,000 means, I got 5,000 interest. So, I went to the bank after 5 years, that I said, that I want my money back, after closing my account. So, how much money will the bank give me? Will it give only 5,000 rupees? So, if they give, then no one will believe that, I have kept 10,000, it should increase. So, instead of 10,000, if you give 5,000, then it won't work. So, amount is that particular sum, which the bank will return to you. So, that is, what you had kept, that is there. Along with that, the interest that the bank gave extra. So, the total is called the amount. So, here they are asking the amount. So, see, this question can be asked in both ways, but I will do using percentage. 6% per annum, 6% per year, how many years? 5, 5 years. So, how much total interest will I get? Can I say 5 into 6? 30%. I get 6% in a year, in 5 years, I will get 30%. Now, 30% of what? The money I have kept, that is 1500. So, you can say, then the interest is going to be how much? 30% means 30 over 100 of 1500. So, just calculate this. See, this 0, this 0 is gone. So, this is coming out to be 450 rupees. So, how much money will the bank return me? The money I had kept, that is 1500, plus the interest I made, that is 450. So, that will be 1950 rupees, which is there in option A. It is in the first option. I hope this is clear. This is very, very simple stuff. Not very difficult, nothing. I hope this is clear, absolutely. Let's move on then to the next question. A sum of money was lent on simple interest. After 4 years, its simple interest became 3 by 5 of it. Okay, let's do 3 fifth. Find the rate of interest per annum. Okay, this is what I asked you. Now, see, this is one of the template questions, where percentage terms become very, very easy to solve. See, one thing, yesterday, in yesterday's class, I told you one thing, that there is a relation of percentage and fraction. So, how to go from fraction to percentage? You multiply by 100. If you want to go from percentage to fraction, you divide by 100. So, this 3 by 5 is like fraction. How to go in percentage? You multiply 3 by 5 by 100. It will come as 60%. Now comes the original thing. What? So, think carefully. Think carefully. After 4 years, my simple interest became 60%. I took 3 fifth as 60%. So, in 4 years, I got 60% interest. This is interest in terms of percentage. So, how much will I get in 1 year? Because I told you, simple interest is always linear, uniform. It will be same in 1 year, 2 years, 3 years, 4 years. So, if I divide the total interest by 4, I will get 1 interest for each year. Why? Because in 4 years, I got 60% interest. So, interest per year will be how much? Can I say 60 divided by 4? That is 15%. I am getting 15% interest every year. I am getting 15% interest every year. Now, you tell me, what is rate of interest? I told you one thing in the beginning. Whatever the interest is for 1 year, it is called rate of interest. Look here, interest is 15% for 1 year. So, that is nothing but my rate of interest. That is option 3. Done. Now, if you wanted to go for the normal formula, the PTR by 100 formula, then you have to take something P, then the interest will become 3P by 5, then you have to solve. But this is much better way to go, if you ask me anytime. I hope this is getting cleared. Let's move on to the next question. So, this is the third question. A sum of money amounts to Rs. 575 in 3 years and Rs. 625 after 5 years. At the same rate of simple interest, what is the rate of interest per annum? This is a little tricky question. Mostly for digital students. Mostly for digital type of students. Understand this thing well. So, we can do this in many ways. The big problem is, the amount that is given is a big problem. Now, for this question, we are going to use something called method of difference. This is a particular technique, when you see there are two amounts given or two interest given. So, we can do something by minusing it. We can do something by taking difference. So, we are going to do that. But before that, you will say, what is the problem here? The amount is given. So, these 575 and 625, both are amounts. But understand this thing well. What is 625? Can I say this is amount means principal plus interest. Now, how many years of interest is there? You will say, sir, this is 5 years of interest. 5i. What is i? i is interest per one year. I wrote i for one year's interest. So, 5 times of 5 years. Okay. What is 575? You will say, sir, 575 is principal plus how many years of interest? 3 years of interest. So, 3i. So, see, if I minus both sides, then I have 50 rupees left here. Pp is deducted and this is coming out to be 2i. That means, my interest per year is 25 rupees. This is the interesting part. That means, you think, if this amount was given, if interest was given instead of amount, then it would not make any difference. Why? Because ultimately, the principal and principal are getting cancelled. So, that is the good thing about the method of difference. We can do this by using difference. Okay. So, I got one thing. Let's take any value. Either we can do this or we can go by this. Let's take a small value from this. So, what do I know? So, the principal will come from here. See, principal plus 3 years of interest, I know. Principal plus 3 years of interest is 575 rupees. And interest per year is 25 rupees. So, I will put it. So, my principal will come to be 500 rupees. See, can I say this? Is this line clear? So, what did I do? I put 25 instead of i. So, 325 is 75. If I minus, then I get the principal. Once I got the principal, the question is almost done. Why? I know that there is a sum of 500 rupees and principal. In that, interest is 25 rupees. They are asking rate of interest. I know the interest of one year. I also know how much is the interest on rupees. I just need the percentage. So, that means I need the percentage that the interest of 25 rupees is how much of 500. There are two ways to go about this. You can say, interest of 25 rupees is on whom? Multiply by 100 for the percentage of 500. So, you will get 5%. But the better way is even better than doing this. What is better? Now, think. What is the percentage of 500? They will say, sir, 10% of 500 is 50 rupees. But, my interest is 25. So, 50 is also half. 25 is half of 50. So, if I have to half it to get 25, then it will also become half here. So, you will get rate of interest from there also. Half of 10 is 5%. So, the answer will be option A, 5%. Look carefully. This is the best way to solve this type of questions. Now, look. What can be the second one? You can use the normal formula. Look at the principle. Then apply the formula of interest. PTR by 100. From there, solve two equations. So, it will become lengthy. But, the answer will be correct. But, I will suggest you guys to use this. Learn it like this. This is the best method. I hope this is clear. Moving on to the next question. Next question. Certain money amounts to rupees 19.55% per annum after 6 years. How much will it amount to at the same rate of interest after 8 years? Great question. Now, this is again. If you had given the amount and interest, it would have been easy. But, apply the percentage concept here also. Nothing can be better than that. Think about it. 5% per annum for how many years? For 6 years. What will be the total interest? Total interest will be 5 into 6. 30%. Right? So, what will be the amount in terms of percentage? Can anyone tell me? Can you guys tell me? What will be the amount in terms of percentage? Always, the principal is 100%. What will be the interest with that? 30%. So, the amount will be 130%. Can I say? 130% will be my amount. That is given as 1950 rupees. See it properly. 1950 is the amount. So, the amount of 130% is my 1950 rupees. What they are asking? Let's ask. In 8 years, the same rate of interest. Means, 5% only. So, you tell me, what will be the amount in that case? If they will take, what will be the amount? 100% is already there. And what will be the interest? 5% per year for 8 years. 5 into 8 is 40%. So, 140% will be the amount. They are asking, what will be the amount? This is what they are asking. So, see this is a question of unitary method. So, the question is, I know the value of 130%. So, what will be the value of 1%? 1950 by 130. What will be the value of 140%? They will say 1950 by 130 into 140. Let's calculate this. How much will be the value of 13? 13 ones are this, 13 fives are this. So, 15 into 140 is your answer. 15 into 140 is going to be your answer. Let's figure it out. Let's calculate. How can we do this? 15 into 14 is the best. So, I told you, the stick cross stick method. 15, 14 like this, stick then cross then stick. But, if I will put some brain here. So, see 15 into 14. So, see this, can I do this 15 into 15? From there, we will do 15 minus. Can I do this? I removed 14. How did I remove it? Again, we will do 15 into 14 times. 15 into 14 means 15 plus 15 plus 15 till 14 times. So, what did I do? I said, let's do one thing. It is better to add 14 times. Let's add for 15 times only. From there, we will do minus once. If we will do 15 minus once, it will look like this. Because, we know 15 square is 225 minus 15. Which is very easy to calculate. 210. Now, there was a zero with it. So, the answer is going to be how much? 2100 rupees. Is there in the option? See, it is sitting in option 3. It is sitting in option 3 that rupees 2100. Again, very simple stuff. If you know percentage, I guess by now you are getting the idea. Why I was saying that solve with percentage. Don't go for formulas and everything. Formula doesn't work everywhere. Especially, if you want to do it short. You will be able to do it with formula because you have learned it in school. But, you have to do it like this also. Because, time is a key factor in our exams. Let's move on to the next question. Let's move on to the next question. Simple interest on 2000 increased by 80 rupees. Simple interest on a sum of 2000. This is my principle or P. It increases by 80 rupees when the rate percentage increases by 2% per annum. Find the time in years. So, what happened? If I increase the interest rate by 2%, then my interest on 2000 increases by 80 rupees. Can I say this? Now, think. If I increase 2% on 2000, then how much should increase in a year? Can I say that if I increase 2% on 2000, then 2% will increase by 100. So, 0, 0 gone. So, you will get 40. So, my thing is that if I keep 2000 on the bank and the bank starts giving 2% more interest. Then, I will get 40 rupees more every year. See it properly. If the bank increases 2% interest on 2000, then I will get 40 rupees more. But in a year. Please understand. How much will I get for one year? For one year. Now, they are asking. What happened? My interest increased by 80 rupees. My interest increased by 80 rupees. So, they are asking how many years I kept it. So, you tell me. If I increase 40 in a year, then how many years will increase 80? It's very, very simple. It will increase in 2 years. That is your answer. Two questions of two lines. If you know. I hope this is clear. 40 rupees for one year. If 40 increases in a year, then it will take 2 years to increase 80. That's as simple as that. Moving on to the next question. Now, for what time in years. Means in how many years a sum of money will become 4 times itself at 10% per annum. Honestly speaking, to ask this type of question. You don't need pen, paper, anything. Okay, you think. You think. What was my principle? Principle was always 100%. We are doing everything in percentage. What will be the principle of increasing 4 times? Now, the amount. So, what will be the amount? You tell me. The amount has become 4 times. That means the percentage term has become 400%. Can you guys tell me what is the interest here? Can you guys tell me what will be the interest in terms of percentage? Can I say that 100% was the principle. It increased and became 400%. So, how much did the interest increase? Can I say that will be 300%? 400 minus 100. What did I get 300%? My interest became. So, 10% per annum is the rate of interest. I get 10% every year. How many years will I get 300%? 300% is 300. If I divide 10 in every year. So, I will get this in 30 years. My money will be 4 times. Till when my 30 years is the answer. This is going to happen in 30 years. So, that is option A. First option is 30 years. That is my answer. I hope this is clear. Moving on to the next question. A sum of money becomes double in 20 years. At the rate of simple interest. In how many years will it become 4 times itself at the same rate of interest? The last question is a little advanced. Last question was very simple. So, one more line and concept is added to it. So, again we don't need pen and paper. What is the meaning of double? What was the principle of double? I said that the principle is always my 100%. Double means this has become 200%. Double is done. That means how much interest will I get? How much percentage is the interest? I can say 100% is the interest. If we do 100 plus 100, it will be 200. So, 100% is my interest. In how many years? We will say that this has happened in 20 years. It will be fine if you take out the year's value. Why? I will tell you. It has to become 4 times. If it has to become 4 times, what will be the amount? I will write directly. If it has to become 4 times, then the amount is going to be 400%. So, what will be the interest? The same concept was in the last question. 100% is the principle and 400% is the amount. So, my interest has become 300%. They are asking how many years will it take? You tell me. 100% interest is my interest in 20 years. 300% interest will be in how many years? I need 3 times of 100. So, I need 3 times of time. That will be 20 into 3. That is 60 years. So, to make this thing 4 times, I need 60 years which is option A once again. That is my answer. I hope this is getting clear to everybody. Let's move on to the next question. Question no. 8. That is this question. A good question. Now, you will get better questions. 1500 rupees is lent on 6% for 10 years. And Rs. 3000 is lent on 5% for T years. If the interests are the same, then find the value of T. Now, let me tell you one thing. Neither you have been told simple interest nor compound interest. So, this is very very important to understand. If nothing is said, I am writing it over here. If nothing is given, always consider simple interest. Okay. Again, if there is no specific type of interest, then always consider simple interest. If compound interest is said, then compound interest. If simple interest is said, then simple interest. But if nothing is said, then also you will always take simple interest. That is kind of a thumb rule you can say. Okay. I didn't make it, so there is no use of telling me. Now, both of your simple interest is same. In this format, let's say the amount is 1500. 6% for 10 years. Then how much interest will come from here? Interest is going to be 60%. Okay. So, you think how much total interest will come? 60% of 1500 because interest 60%. Whose 60%? 60% of principal. So, 1500 is the principal. Its 60% is 60 over 100. Okay. Now, come to the second part. This is the principal now. 3000, 5% for T years. So, 5% in a year. So, interest in T years will be 5 into T%. Whose 5T%? 3000's 5T%. So, interest is 3000 into 5T over 100. So, they are saying that the interest is same for both. So, both are equal. Okay, remove it. 2 will go from 1500. 100, 100 is gone. 5, 2's are 10. This is 6. So, look, simply the value of T is 6. It comes in two lines. T's value is how much? T's value is 6 years which is option 2. Which is option 2. Now, we have got a little chance here. So, let me give you guys. Look, this thing. Here, we can use this formula also. So, let me give you guys a simple idea. How does this formula comes? For example, we all know. We all know that the formula of interest is P into T into R divided by 100. Right. I have told this formula but I have not shown its proof. Learn a little. If you know a little, you will get more idea that why the question is happening with percentage. Okay. It is a small thing. You think. There is principle is P, T years, R is the rate of interest. So, you think. How much will be the interest of one year? One year interest is R percent. So, what will be the interest of T years? What will be the interest of T years? Can I say T into R percent? This is my T year interest. The interest of T year is T into R percent. On whom is it? TR percent of what? Can I say? It is on principle. So, the interest I will get is this much percent of principle. TR percent means TR by 100. So, if you write this properly, then it is seen. P into T into R divided by 100. That is how actually the formula comes. The formula comes from the same concept. See the same concept we used here. Similarly, we used here. Both of these are exactly the same formulas. Means same concept. Formula is made from there. So, always remember that the formula is not made by a genius or a master. Simply, whatever I am telling you, these shortcuts are made by calculating everything. I have told some shortcuts. The more you practice, the more small things you will observe. The more shortcuts will be made in your mind. It is not necessary that every shortcut will be given or written in a book or some material. Or some teacher will tell. Many shortcuts are developed by themselves. Which only will work for you. And if you ever teach, then you can tell the students. So, this is how it works. Let's move on to the next question. Question no. 9. 1750 rupees divided into two parts such that the interest on the first part at 8% simple interest per annum and that on the other part is 6% simple interest per annum are equal. The interest on each part in rupees. If you ask the interest of two things, then the option is the same. Think that both are equal. So, that means the interest of both the parts will be the same. Now, what to do about this? 1750 was divided into two parts. So, I took the first part. Let's take x. So, what will be the second part? What will be the second part? See, I took the first part. So, the second part will be 1750 minus x. So, I got both the parts. Now, what is going on on the first part? 8% simple interest. So, the annum has not given anything of the year. That means the interest is equal every year. So, it's good. So, on the first part, 8% simple interest means 8% of the first part. That is x into 8 by 100. What is in the second part? 6% simple interest. That means the second part is 1750 minus x. Its 6% means 6 by 100. So, they are saying both are equal. So, equate both. So, the calculation is 100, 100 gone. This is 3, this is 4. So, we are getting 4x equal to 1750 into 3 minus 3x. See, we are not going to do everything. So, when you bring this to this side, it will become 4x plus 3x. That is 7x. 1750 into 3. See, I avoided the calculation. How did I avoid? If you see carefully, I could have easily multiplied 175 into 3. I didn't do it. Why? It will be deducted later. So, the value of x will be 1750 into 3 divided by 7. So, let's do the calculation now. 7 twos are 14. Otherwise, what would have happened? If I had multiplied then, I would have to divide it again. So, it's better. So, I will divide first and then multiply again. Why do it again and again? So, 7 twos are 14. So, 7 fives are this. This is this. So, 25 threes are 75. So, 750 is your answer. Now, 750 is not exactly the answer. 750 is the one part. So, what is the second part? No need to calculate. Because they are not asking what are the parts. They are asking what is the interest in those parts. What happened here? This equation is made. On whose basis is this equation made? Understand it properly. This is the interest on the first part. What is this? The right hand side is also my interest on the second part. Okay? This is also my interest. Both the interests are equal. That's why I have equated it. Understand this. Both the interests are same. That's why I have equated them. Correct? Now, understand this. They are not asking what is the value of x. Or what is the value of 1750 minus x. They are asking what is the value of interest. That means they are asking what is the value of either of these two sides. So, let's calculate. The left one is small. So, x is 750. What is its percentage? 8 percent. Now, let's calculate. This is gone. Okay? So, 5 twos are this. 5 fifteens are 75. 2 fours are this. So, 15 into 4 is coming. 15 into 4 is coming out to be 60 rupees. So, 60 is in option. Again, it is in option. In A or first option. I hope this is clear. Very, very simple stuff. Now, if you wanted, you could have used the PTR by 100 formula as well here also. No issues there. There will be no problem. The same answer will come. But again, as I am saying continuously. Let's start with percentage. It will be a little easy in long run. It will be very easy. Now, very, very, very, very good question. This is a special type question."
+}

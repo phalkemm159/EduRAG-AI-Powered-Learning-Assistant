@@ -1,0 +1,6 @@
+I am teaching aptitude course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"2D","number":"02","start":3600.44,"end":3606.36,"text":" Now see what will be the area of this circle?"},{"title":"3D","number":"03","start":1180.26,"end":1182.26,"text":" It is a circle. Circle means"},{"title":"2D","number":"02","start":3578.2,"end":3578.92,"text":" Circle is inside."},{"title":"2D","number":"02","start":3557.0,"end":3558.2,"text":" Circle is inside."},{"title":"3D","number":"03","start":1131.3,"end":1133.3,"text":" There is a circle below."}]
+---------------------------------
+" where is circle teach  "
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
