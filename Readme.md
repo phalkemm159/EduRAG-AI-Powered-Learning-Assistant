@@ -165,4 +165,4 @@ PRs welcome! Add GUIs, more models, optimizations, or retrieval improvements.
 ---
 
 ## 📄 License
-MIT License (or specify another)
+MIT License
